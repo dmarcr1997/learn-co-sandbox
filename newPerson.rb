@@ -32,6 +32,7 @@ class Person
 end
 
 Person.create("lan joe")
+
 Person.create("Ada Lovelace")
 Person.create("Grace Hopper")
 
